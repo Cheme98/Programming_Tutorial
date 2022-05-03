@@ -1,12 +1,16 @@
 # MATLAB Programming Tutorial
-<img src="https://s23.picofile.com/file/8449677568/MatLab.png" alt="fishy" class="bg-primary" width="205px" align="center">
+<p align="center">
+<img src="https://s22.picofile.com/file/8449686676/SHUNI.png" alt="drawing" width="200"/>
+</p>
+
 
 
 Source codes for MATLAB Programming courses offered by [**Korosh Agha Mohammad Ghasemi**](http://kut.st/PersonalWebsite).
 
 # Table of Content 
-This organization covers different MATLAB Programming-based material including but not limited to;
+<img src="https://s23.picofile.com/file/8449677568/MatLab.png" alt="fishy" class="bg-primary" width="105px" align="center">
 
+This organization covers different MATLAB Programming-based material including but not limited to;
 - ## Pure Programming
     - [Algorithms and Flowcharts]()
     - [MATLAB]()
