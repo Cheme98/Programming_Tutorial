@@ -1,14 +1,10 @@
 # MATLAB Programming Tutorial
-<img src="https://s23.picofile.com/file/8449685384/logo.png" width="300"/>
+<img src="https://s23.picofile.com/file/8449677568/MatLab.png" alt="fishy" class="bg-primary" width="205px" align="center">
+
 
 Source codes for MATLAB Programming courses offered by [**Korosh Agha Mohammad Ghasemi**](http://kut.st/PersonalWebsite).
 
 # Table of Content 
-![MATLAB](https://img.shields.io/badge/MATLAB-%23F05033.svg?style=for-the-badge&logo=MATLAB&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
 This organization covers different MATLAB Programming-based material including but not limited to;
 
 - ## Pure Programming
@@ -17,6 +13,7 @@ This organization covers different MATLAB Programming-based material including b
 
 - ## Teacher Assistant (TA) 
     - [**Dr. Amir Golroo**]()
+    - [**Dr. Fatemeh Hejazi** ]()
     - [**Dr. Fatemeh Keyvani**]()
     - [**Dr. Hamed Peyrovedin**]()
     - [**Dr. Behnam Shahsavani**]()
