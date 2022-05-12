@@ -9,7 +9,7 @@ Source codes for MATLAB Programming courses offered by <img src="https://s23.pic
 
 # Table of Content 
 
-This organization covers different MATLAB Programming-based material including but not limited to;
+This organization covers different Programming-based material including but not limited to;
 - ## Pure Programming
     - <img src="https://s22.picofile.com/file/8449796842/dl2.png" width="13"/> [**Algorithms and Flowcharts**]()
     - <img src="https://s22.picofile.com/file/8449797050/MATLAB.png" width="13"/> [**MATLAB**]() 
