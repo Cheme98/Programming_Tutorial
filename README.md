@@ -13,7 +13,6 @@ This organization covers different MATLAB Programming-based material including b
 - ## Pure Programming
     - <img src="https://s22.picofile.com/file/8449796842/dl2.png" width="13"/> [**Algorithms and Flowcharts**]()
     - <img src="https://s22.picofile.com/file/8449797050/MATLAB.png" width="13"/> [**MATLAB**]() 
-
         - [MATLAB vs Python]()
         - [Introduction to MATLAB]()
         - [Vectors and Matrices]()
