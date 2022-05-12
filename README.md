@@ -1,4 +1,4 @@
-# Programming Tutorial
+# MATLAB Programming Tutorial
 <p align="center">
 <img src="https://s22.picofile.com/file/8449686676/SHUNI.png" alt="drawing" width="190"/>
 </p>
@@ -9,15 +9,10 @@ Source codes for MATLAB Programming courses offered by <img src="https://s23.pic
 
 # Table of Content 
 
-This organization covers different Programming-based material including but not limited to;
+This organization covers different MATLAB Programming-based material including but not limited to;
 - ## Pure Programming
     - <img src="https://s22.picofile.com/file/8449796842/dl2.png" width="13"/> [**Algorithms and Flowcharts**]()
     - <img src="https://s22.picofile.com/file/8449797050/MATLAB.png" width="13"/> [**MATLAB**]() 
-        - [MATLAB vs Python]()
-        - [Introduction to MATLAB]()
-        - [Vectors and Matrices]()
-        - [Selection Statements]()
-        - [Loop Statements]()
     - <img src="./images/logos/linux.png" width="12"/> [**Linux**]()
     - <img src="./images/logos/python.png" width="13"/> [**Python**]()  
     - <img src="./images/logos/github.png" width="13"/> [**Git**]() 
