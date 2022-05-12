@@ -18,7 +18,8 @@ This organization covers different MATLAB Programming-based material including b
         - [Vectors and Matrices]()
         - [Selection Statements]()
         - [Loop Statements]()
-
+    - <img src="./images/logos/linux.png" width="11"/> [**Linux**]()
+    - <img src="./images/logos/python.png" width="12"/> [**Python**]()  
 - ## Teacher Assistant (TA) 
     - [**Dr. Amir Golroo**]()
     - [**Dr. Fatemeh Hejazi** ]()
