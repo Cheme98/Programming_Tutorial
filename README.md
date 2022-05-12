@@ -1,4 +1,4 @@
-# MATLAB Programming Tutorial
+# Programming Tutorial
 <p align="center">
 <img src="https://s22.picofile.com/file/8449686676/SHUNI.png" alt="drawing" width="190"/>
 </p>
